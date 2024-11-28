@@ -1,2 +1,3 @@
-# .github
-https://github.com/images/mona-whisper.gif
+# NetConnectors
+
+2 Dudes doing something (probably scripting/programming)
